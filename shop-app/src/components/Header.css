@@ -1,0 +1,11 @@
+.poppins{
+    font-family: "Poppins",sans-serif;
+}
+
+.header-banner{
+    background-image: url('../assets/bannerbackground.0f3b87c0.png');
+    background-repeat: no-repeat;
+    background-position: 50%;
+    background-size: cover;
+    height: 600px!important;
+}
